@@ -1,0 +1,3 @@
+include ':DemoLibrary'
+include ':app'
+rootProject.name = "Demo Plugin"
